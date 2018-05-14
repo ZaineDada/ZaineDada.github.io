@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	height: 100vh;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+html {
+background-image: url(images/action-celebration-club-341858.jpg); no-repeat: center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
